@@ -3,15 +3,24 @@ by NeverBabel
 License: CC BY-SA https://creativecommons.org/licenses/  
 updated on 9th Oct 2022  
 
-I. preface
+table of contents of this tutorial
+========
+
+preface
+Chapter 0: prerequisite
+Chapter 1: steps for Windows
+Chapter 2: steps for GNU/Linux (if you are NOT a total beginner)
+Chapter 3: steps if you want to use VM when you are NOT a newbie
+
+preface
 ========
 
 English is NOT my 1st language, so please tell me about my mistakes if you are certain, esp. if you are a native speaker. I would appreciate your help.
 
-about the style: (almost) all lowercase except for (1)proper names (2)computer terms
+about the style: (almost) all lowercase except for (1)proper names (2)computer terms 
 
 question: what is this tutorial for?  
-answer: to teach to Install & Configure & use OSes(like Linux/Windows)/Apps(like VLC/MPC-HC the Video Player) 
+answer: to teach to Install & Configure & use OSes(like GNU/Linux/Windows)/Apps(like VLC/MPC-HC the Video Player) 
 
 question: what is NOT this tutorial for?  
 answer: (1)Hardware DIY (2)devices other than PC(Personal Computer), like smartphones 
@@ -31,12 +40,9 @@ answer: SEE Chapter 0: prerequisite
 question: what is the cost to learn this tutorial?  
 answer: (1)time (2)a PC(Personal Computer), whether a Desktop or a Laptop (3)a network connection (4)endure the inconvenience deliberately brought by many others because you are different from them, i.e, you are individual rather than collective
 
-my advice on how to master this tutorial: using your DIYed Software System in daily life
+my advice on how to master this tutorial: use your DIYed Software System in daily life
 
-about the Softwares introducted: (mostly) FOSS(Free and Open-Source Software). Windows is NOT FOSS, but it's a good beginning for total beginners, and it's pre-Installed by most Laptop manufacturers.
-
-II. table of contents
-========
+about the Softwares introducted: (mostly) FOSS(Free and Open-Source Software). Windows is NOT FOSS, but it's a good beginning for beginners, and it's pre-Installed by most Laptop manufacturers.
 
 Chapter 0: prerequisite
 --------
@@ -50,16 +56,16 @@ Chapter 0: prerequisite
 Chapter 1: steps for Windows
 --------
 
-1. Install(&Update) & Configure Windows 
+1. [Install(&Update) & Configure Windows](OS-Win10.md) 
 2. Install & Configure Drivers, if necessary
 3. Install & Configure & use Apps under Windows
 
-Chapter 2: steps for Linux (if you are NOT a total beginner)
+Chapter 2: steps for GNU/Linux (if you are NOT a total beginner)
 --------
 
-1. Install(&Update) & Configure Linux 
+1. Install(&Update) & Configure GNU/Linux 
 2. Install & Configure Drivers, if necessary
-3. Install & Configure & use Apps under Linux
+3. Install & Configure & use Apps under GNU/Linux
 
 Chapter 3: steps if you want to use VM when you are NOT a newbie
 --------
