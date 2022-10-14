@@ -6,11 +6,11 @@ updated on 9th Oct 2022
 table of contents of this tutorial
 ========
 
-preface
-Chapter 0: prerequisite
-Chapter 1: steps for Windows
-Chapter 2: steps for GNU/Linux (if you are NOT a total beginner)
-Chapter 3: steps if you want to use VM when you are NOT a newbie
+preface  
+Chapter 0: prerequisite  
+Chapter 1: steps for Windows  
+Chapter 2: steps for GNU/Linux (if you are NOT a total beginner)  
+Chapter 3: steps if you want to use VM when you are NOT a newbie  
 
 preface
 ========
