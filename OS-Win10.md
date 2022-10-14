@@ -7,13 +7,13 @@ updated on 9th Oct 2022
 table of contents of Windows 10 the OS
 ========
 
-Windows 10: preface
-Windows 10: Chapter 1: Download the Installer
-Windows 10: Chapter 2: (for Security, optional) Verify the Installer
-Windows 10: Chapter 3: Burn the Installer into a Bootable Media like a Bootable Flash Drive, etc.
-Windows 10: Chapter 4: Install the OS from the Bootable Flash Drive just made
-Windows 10: Chapter 5: Configure the OS
-Windows 10: Chapter 6: use the OS
+Windows 10: preface  
+Windows 10: Chapter 1: Download the Installer  
+Windows 10: Chapter 2: (for Security, optional) Verify the Installer  
+Windows 10: Chapter 3: Burn the Installer into a Bootable Media like a Bootable Flash Drive, etc.  
+Windows 10: Chapter 4: Install the OS from the Bootable Flash Drive just made  
+Windows 10: Chapter 5: Configure the OS  
+Windows 10: Chapter 6: use the OS  
 
 Windows 10: preface
 ========
